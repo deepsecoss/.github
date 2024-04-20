@@ -15,7 +15,7 @@ new projects being hosted here
 hackathons being run here to support any number of open security projects
 Together we can - and must - improve the productivity of cyber security.
 
-
+Please join our Discord here:  (https://github.com/deepsecoss/MITREembed)
 <!--
 
 **Here are some ideas to get you started:**
